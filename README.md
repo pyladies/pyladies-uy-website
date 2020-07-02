@@ -1,6 +1,20 @@
-# netlify-website-template
+# PyLadies Uy
 
-Example of PyLadies Website theme powered by Netlify with [a standard pull request template](github.com/pyladies/netlify-website-template/PULL_REQUEST_TEMPLATE). You can preview the template [here](https://netlify-template-simple.netlify.app).
+We are the Uruguay chapter of an international mentorship group, PyLadies,
+with a focus on helping more women become active participants and leaders
+in the Python open-source community. Our mission is to promote, educate and
+advance a diverse Python community through outreach, education, conferences,
+events and social gatherings.
+
+PyLadies also aims to provide a friendly support network for
+women and a bridge to the larger Python world. Anyone with an
+interest in Python is encouraged to participate!
+
+Important links:
+
+- [Code of Conduct](https://www.pyladies.com/CodeOfConduct/)
+- [Our MeetUp](https://www.meetup.com/PyLadiesUy/)
+- [Our TWitter](http://www.twitter.com/pyladiesuy)
 
 ## What is Netlify?
 
